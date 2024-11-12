@@ -12,5 +12,5 @@
 
 ### Combined Quiz 
 ~[First Quiz (Portions Before Mid Sem) & Second Quiz (After Mid Sem till the Lecture 14)]
-~🢣 $\textcolor{red}{Scheduled\ on\ 14\ Nov\}$
-~🢣 $\textcolor{red}{Time\ and\ Venue\ to\ be\ intimated\ later\}$
+🢣 $\textcolor{red}{Scheduled\ on\ 14\ Nov\}$
+🢣 $\textcolor{red}{Time\ and\ Venue\ to\ be\ intimated\ later\}$
