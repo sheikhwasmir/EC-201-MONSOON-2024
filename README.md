@@ -11,4 +11,6 @@
 | 6      | 12-Nov-2024 | Tuesday     | Lecture 16 ~ E-MOSFET Biasing  (DC Analysis) | [Slide](https://drive.google.com/file/d/1gzq2iwh9KDxxMxtOKN3bzGSiYH4OIh-Z/view?usp=drive_link)| 
 
 ### Combined Quiz 
-~[First Quiz (Portions Before Mid Sem) & Second Quiz (After Mid Sem till the Lecture 14)] 🢣 $\textcolor{red}{Scheduled\ on\ 14\ Nov\}$ 🢣 $\textcolor{red}{Time\ and\ Venue\ to\ be\ intimated\ later\}$
+~[First Quiz (Portions Before Mid Sem) & Second Quiz (After Mid Sem till the Lecture 14)]
+~🢣 $\textcolor{red}{Scheduled\ on\ 14\ Nov\}$
+~🢣 $\textcolor{red}{Time\ and\ Venue\ to\ be\ intimated\ later\}$
