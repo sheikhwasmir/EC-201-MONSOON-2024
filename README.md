@@ -1,7 +1,7 @@
 # ANALOG CIRCUITS || MONSOON 2024 || ACADEMIC YEAR 2024-25
 
 ### Lecture Details || After Mid Semester
-| Sl. No. | Date | Day              | Topic | Slide |                                                                                           
+| Sl. No. | Date | Day              | Topic | Slide / Source |                                                                                           
 |:-------:|:----:|:-----------------|:------|:-------------------------------:|
 | 1      | 22-Oct-2024 | Tuesday     | Lecture 8 ~ JFET Biasing (DC Analysis) | [Slide](https://drive.google.com/file/d/1BRpakTDQ1LbVwamggiU6nF9UUPgjIlws/view?usp=drive_link)| 
 | 2      | 24-Oct-2024 | Thursday      | Lecture 9 ~ JFET Biasing (DC Analysis) [Contd.] | [Slide](https://drive.google.com/file/d/1rdLT7DVfW5weWXk6pr-lgwjHSwla8ekV/view?usp=drive_link)| 
@@ -16,10 +16,11 @@
 🢣 $\textcolor{red}{Held\ on\ 14\ Nov\}$
 
 ### Text Books & Other Materials
-| Sl. No. | Book/Source  | Author | Link to Source|                                                                                              
+| Sl. No. | Book/Source  | Author / Channel | Link to Source|                                                                                              
 |:---:|:--:|:--|:--------------------------:|
 | 1       | Electronic Devices And Circuit Theory, 11th Edition        |Boylestad, Nashelsky|  [EDCT11E](https://drive.google.com/file/d/1HhrrjBim6-R2o804YQnEW-5pgKfmJ8Fj/view?usp=drive_link)|
-| 2       | Electronic Devices And Circuit Theory, 9th Edition         |Boylestad, Nashelsky|  [EDCT9E](https://drive.google.com/file/d/1HhrrjBim6-R2o804YQnEW-5pgKfmJ8Fj/view?usp=drive_link)|
+| 2       | Logic Gate Implementation using CMOS logic                 |All About Electronics|  [CMOSGates](https://www.youtube.com/watch?v=f3zRz0d9XA8)|
 | 3       | Electronic Devices (Electronic Flow Version), 9th Edition  | Floyd|                [EDEFV9E](https://drive.google.com/file/d/13Or8k8UOXu-7RigTYXB1zoCOerTMPqLp/view?usp=drive_link)|  
+
   
 
