@@ -18,6 +18,6 @@
 ### Text Books & Other Materials
 | Sl. No. | Book/Source with Author | Title | Link to Source|                                                                                              
 |:---:|:--:|:--|:--------------------------:|
-| 1       | Electronic Devices, Floyd, 9th Edition                                   |NA|  [EDFloyd9th](https://drive.google.com/file/d/1c7afu7bZdLWjZCwdJVBVNuywIrtSWRbh/view?usp=drive_link)|  
-| 4       | Electronic Devices And Circuit Theory, Boylestad, Nashelsky, 9th Edition |NA|  [EDCTBoylestadNashelsky9th]
+| 1       | Electronic Devices, Floyd, 9th Edition                                   |NA|  [EDFloyd9th](https://drive.google.com/file/d/13Or8k8UOXu-7RigTYXB1zoCOerTMPqLp/view?usp=drive_link)|  
+| 4       | Electronic Devices And Circuit Theory, Boylestad, Nashelsky, 9th Edition |NA|  [EDCTBoylestadNashelsky9th](https://drive.google.com/file/d/1HhrrjBim6-R2o804YQnEW-5pgKfmJ8Fj/view?usp=drive_link)|  
 
