@@ -19,7 +19,8 @@
 | Sl. No. | Book/Source  | Author / Channel | Link to Source|                                                                                              
 |:---:|:--:|:--|:--------------------------:|
 | 1       | Electronic Devices And Circuit Theory, 11th Edition        |Boylestad, Nashelsky|  [EDCT11E](https://drive.google.com/file/d/1HhrrjBim6-R2o804YQnEW-5pgKfmJ8Fj/view?usp=drive_link)|
-| 2       | Logic Gate Implementation using CMOS logic                 |All About Electronics|  [CMOSGates](https://www.youtube.com/watch?v=f3zRz0d9XA8)|
+| 2       | CMOS Digital Integrated Circuits, 2E                       | Kang, Leblebici |                [CDIC](https://drive.google.com/file/d/1KYefm3qQzyXbbgpNFDWm5MjnYpcVXwBg/view?usp=drive_link)| 
+| 3       | Video - Logic Gate Implementation using CMOS logic                 |All About Electronics|  [CMOSGates](https://www.youtube.com/watch?v=f3zRz0d9XA8)|
 | 3       | Electronic Devices (Electronic Flow Version), 9th Edition  | Floyd|                [EDEFV9E](https://drive.google.com/file/d/13Or8k8UOXu-7RigTYXB1zoCOerTMPqLp/view?usp=drive_link)|  
 
   
