@@ -16,8 +16,10 @@
 🢣 $\textcolor{red}{Held\ on\ 14\ Nov\}$
 
 ### Text Books & Other Materials
-| Sl. No. | Book/Source with Author | Title | Link to Source|                                                                                              
+| Sl. No. | Book/Source  | Author | Link to Source|                                                                                              
 |:---:|:--:|:--|:--------------------------:|
-| 1       | Electronic Devices, Floyd, 9th Edition                                   |NA|  [EDFloyd9th](https://drive.google.com/file/d/13Or8k8UOXu-7RigTYXB1zoCOerTMPqLp/view?usp=drive_link)|  
-| 4       | Electronic Devices And Circuit Theory, Boylestad, Nashelsky, 9th Edition |NA|  [EDCTBoylestadNashelsky9th](https://drive.google.com/file/d/1HhrrjBim6-R2o804YQnEW-5pgKfmJ8Fj/view?usp=drive_link)|  
+| 1       | Electronic Devices And Circuit Theory, 11th Edition        |Boylestad, Nashelsky|  [EDCT11E](https://drive.google.com/file/d/1HhrrjBim6-R2o804YQnEW-5pgKfmJ8Fj/view?usp=drive_link)|
+| 2       | Electronic Devices And Circuit Theory, 9th Edition         |Boylestad, Nashelsky|  [EDCT9E](https://drive.google.com/file/d/1HhrrjBim6-R2o804YQnEW-5pgKfmJ8Fj/view?usp=drive_link)|
+| 3       | Electronic Devices (Electronic Flow Version), 9th Edition  | Floyd|                [EDEFV9E](https://drive.google.com/file/d/13Or8k8UOXu-7RigTYXB1zoCOerTMPqLp/view?usp=drive_link)|  
+  
 
